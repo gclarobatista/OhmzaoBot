@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "WindowsFormsApp2\MainProject.csproj", "{8606EAFB-4E34-4918-89BC-E3682238314B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupOhmzaoBot", "SetupOhmzaoBot\SetupOhmzaoBot.vdproj", "{8A461B3D-FA93-49FE-93F7-5285AAE210CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,11 @@ Global
 		{8606EAFB-4E34-4918-89BC-E3682238314B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8606EAFB-4E34-4918-89BC-E3682238314B}.Release|x64.ActiveCfg = Release|x64
 		{8606EAFB-4E34-4918-89BC-E3682238314B}.Release|x64.Build.0 = Release|x64
+		{8A461B3D-FA93-49FE-93F7-5285AAE210CE}.Debug|Any CPU.ActiveCfg = Debug
+		{8A461B3D-FA93-49FE-93F7-5285AAE210CE}.Debug|x64.ActiveCfg = Debug
+		{8A461B3D-FA93-49FE-93F7-5285AAE210CE}.Debug|x64.Build.0 = Debug
+		{8A461B3D-FA93-49FE-93F7-5285AAE210CE}.Release|Any CPU.ActiveCfg = Release
+		{8A461B3D-FA93-49FE-93F7-5285AAE210CE}.Release|x64.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
